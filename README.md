@@ -1,4 +1,4 @@
-It was part of a university project
+It was part of a university project.
 # Project Description 
 The LCD is connected to the Arduino and receives its action from the keypad 
 through the Arduino and to its job through the function named keypadEvent(). 
